@@ -1,0 +1,15 @@
+
+import = ["~/.config/alacritty/rose-pine.toml"]
+shell = "/bin/zsh"
+
+[window]
+padding = { x = 5, y = 5 } 
+title = "Alacritty"
+
+[font]
+size = 10.0
+normal = { family = "IosevkaNerdFontMono" }
+bold = { family = "IosevkaNerdFontMono" }
+italic = { family = "IosevkaNerdFontMono" }
+bold_italic = { family = "IosevkaNerdFontMono" }
+
