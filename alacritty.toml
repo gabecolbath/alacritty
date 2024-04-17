@@ -7,7 +7,7 @@ padding = { x = 5, y = 5 }
 title = "Alacritty"
 
 [font]
-size = 10.0
+size = 12
 normal = { family = "IosevkaNerdFontMono" }
 bold = { family = "IosevkaNerdFontMono" }
 italic = { family = "IosevkaNerdFontMono" }
